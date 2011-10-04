@@ -15,7 +15,7 @@
 #include "SampleMixer.h"
 #include "tones.h"
 
-#define NUM_WAVES 50
+#define NUM_WAVES 100
 //static float tones[] = {C3, D3, Dsharp3, F3, Fsharp3, Gsharp3, Asharp3, C4, D4}; //whole tones
 static float tones[] = {C4}; //whole tones
 
